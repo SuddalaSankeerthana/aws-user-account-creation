@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is to a simple web app which takes the user details and creates the account and store them in aws [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
